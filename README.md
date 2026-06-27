@@ -1,9 +1,9 @@
 
 # Simple Pizza Winkel
+This is my personal project, to apply my learnings about microservices that I have seen and worked with in my current/previous software engineering job.
+
 
 ## Description
-
-This is my personal project, to apply my learnings about microservices that I have seen and worked with in my current/previous software engineering job.
 
 The project is a pizza ordering system that allows users to order pizzas online. It consists of multiple microservices, each responsible for a specific part of the system. 
 
