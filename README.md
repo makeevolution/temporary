@@ -51,7 +51,7 @@ The default admin credentials are the same as above.
 
 All the individual microservices can run independently, and all follow the same structure inside their respective folder under [src](./src/):
 
-5. Start up required infrastructure: `docker-compose up -d`
+5. Start up required infrastructure: `docker compose up -d`
 6. Start up the API component and Dapr sidecar, you'll need two separate terminal windows:
     - `make local-api`
     - `make dapr-api-sidecar`
